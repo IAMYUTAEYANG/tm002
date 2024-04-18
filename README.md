@@ -14,8 +14,9 @@ kerasyt.py
 ***
 pip install -r requiments.txt
 ***
-#결과
+
+#결과 <br>
 ![image](https://github.com/IAMYUTAEYANG/tm002/assets/165633233/62cf831c-cd51-4f36-8bac-9cba59a1632d)
 
-#에포크
+#에포크 <br>
 ![dpvhzm](https://github.com/IAMYUTAEYANG/tm002/assets/165633233/55cbd6d9-b50c-469d-ab88-de80e8cc9251)
