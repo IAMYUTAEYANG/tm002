@@ -1,0 +1,4 @@
+0 Car
+1 Cycle
+2 Kickborad
+3 Human
